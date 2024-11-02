@@ -13,6 +13,15 @@ import FAQs from '~/components/widgets/FAQs.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
 
+import Button from '~/components/ui/Button.astro';
+import Image from '~/components/common/Image.astro';
+
+const tudImg = '~/assets/images/app-store.png';
+const tudLink = 'https://github.com/onwidget/astrowind';
+
+const kclImg = '~/assets/images/google-play.png';
+const kclLink = 'https://github.com/onwidget/astrowind';
+
 const metadata = {
   title: 'ICHQP workshop',
   ignoreTitleTemplate: true,
@@ -23,11 +32,12 @@ const metadata = {
   <!-- Hero Widget ******************* -->
 
   <Hero
+    tagline="1st ICHQP workshop"
     actions={[
       {
         variant: 'primary',
         text: 'Register',
-        href: 'https://github.com/onwidget/astrowind',
+        href: 'https://www.eventbrite.co.uk/',
         target: '_blank',
         // icon: 'tabler:download',
       },
@@ -44,7 +54,6 @@ const metadata = {
 
     <Fragment slot="subtitle">
       <span class="hidden sm:inline">
-        <span class="font-bold">1st ICHQP workshop</span><br/>
         King’s College London, UK<br/>
         June 11-12, 2025
       </span>
