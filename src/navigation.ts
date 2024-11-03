@@ -47,8 +47,7 @@ export const headerData = {
     },
     {
       text: 'Registration',
-      href: 'https://www.eventbrite.co.uk/',
-      target: '_blank',
+      href: getPermalink('/registration'),
     },
     {
       text: 'Venue',

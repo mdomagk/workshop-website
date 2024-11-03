@@ -1,6 +1,5 @@
 ---
 layout: ~/layouts/MarkdownLayout.astro
-import: ~/styles/markdown.css';
 ---
 
 ## Program
