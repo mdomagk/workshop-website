@@ -25,7 +25,7 @@ export const headerData = {
     },
     {
       text: 'Program',
-      href: '#',
+      href: getPermalink('/program'),
     },
     {
       text: 'Speakers',
@@ -55,11 +55,11 @@ export const headerData = {
       links: [
         {
           text: 'King’s College London  ',
-          href: '#',
+          href: getPermalink('/venue#kings-college-london'),
         },
         {
           text: 'Accomodation',
-          href: '#',
+          href: getPermalink('/venue#accomodation'),
         },
       ],
     },
