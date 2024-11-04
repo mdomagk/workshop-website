@@ -64,7 +64,7 @@ export const headerData = {
       href: getPermalink('/contacts'),
     },
   ],
-  actions: [{ text: 'Flyer (PDF)', href: './assets/images/impedances-logos.png', target: '_blank' }],
+  actions: [{ text: 'Flyer (PDF)', href: '/ICHQP-workshop-flyer.pdf', target: '_blank' }],
 };
 
 export const footerData = {
