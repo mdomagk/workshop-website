@@ -35,7 +35,7 @@ const metadata = {
       },
       { text: 'Learn more', href: '#about' },
     ]}
-    image={{ src: '~/assets/images/KCL_small.jpg', alt: 'AstroWind Hero Image' }}
+    image={{ src: '~/assets/images/KCL-ICHQP.png', alt: 'AstroWind Hero Image' }}
   >
     <Fragment slot="title"> 
       From Planning to Operation: <br/>
@@ -79,7 +79,13 @@ const metadata = {
     },
   ]}
   classes={{ container: 'max-w-3xl' }}
-/>
+  >
+
+  <Fragment slot="bg">
+    <div class="absolute inset-0 bg-red-50 dark:bg-transparent"></div>
+  </Fragment>
+
+  </Steps>
 
   <!-- Features Widget *************** -->
 

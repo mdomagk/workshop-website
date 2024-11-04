@@ -8,7 +8,7 @@ layout: ~/layouts/MarkdownLayout.astro
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 
-![KCL](~/assets/images/KCL_small.jpg)
+![KCL](~/assets/images/strand-bush-house.png)
 
 ## Accomodation
 
