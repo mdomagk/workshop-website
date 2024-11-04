@@ -4,7 +4,9 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ## Program
 
-### Day 1
+_More information coming soon._
+
+<!-- ### Day 1
 
 | Table Heading 1 | Table Heading 2 | Center align | 
 | :-------------- | :-------------- | :----------: | 
@@ -22,4 +24,4 @@ layout: ~/layouts/MarkdownLayout.astro
 | Item 1          | Item 2          |    Item 3    |     
 | Item 1          | Item 2          |    Item 3    |     
 | Item 1          | Item 2          |    Item 3    |      
-| Item 1          | Item 2          |    Item 3    |     
+| Item 1          | Item 2          |    Item 3    |      -->

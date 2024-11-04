@@ -6,12 +6,12 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ## King's College London
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+The Workshop will be at [Strand Campus](https://www.kcl.ac.uk/visit/bush-house) of King's College London.
 
 ![KCL](~/assets/images/strand-bush-house.png)
 
-## Accomodation
+<!-- ## Accomodation
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. -->
 
 

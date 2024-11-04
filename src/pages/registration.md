@@ -4,7 +4,9 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ## Registration
 
-### Registration fees
+_More information coming soon._
+
+<!-- ### Registration fees
 
 | Table Heading 1 | Table Heading 2 | Center align | 
 | :-------------- | :-------------- | :----------: | 
@@ -16,4 +18,4 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ### Eventbright
 
-Register at [Eventbright](https://www.eventbrite.co.uk/)
+Register at [Eventbright](https://www.eventbrite.co.uk/) -->
