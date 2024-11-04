@@ -1,6 +1,6 @@
 site:
   name: ICHQP workshop
-  site: 'https://astrowind.vercel.app'
+  site: 'https://ichqp-workshop.org'
   base: '/'
   trailingSlash: false
 
@@ -11,21 +11,17 @@ metadata:
   title:
     default: ICHQP workshop
     template: '%s — ICHQP workshop'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\U0001F680 1st ICHQP workshop 2025"
   robots:
     index: true
     follow: true
   openGraph:
     site_name: ICHQP workshop
     images:
-      - url: '~/assets/images/default.png'
+      - url: '~/assets/images/KCL-ICHQP.png'
         width: 1200
         height: 628
     type: website
-  twitter:
-    handle: '@onwidget'
-    site: '@onwidget'
-    cardType: summary_large_image
 
 i18n:
   language: en
