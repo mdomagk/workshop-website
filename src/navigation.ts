@@ -64,7 +64,7 @@ export const headerData = {
       href: getPermalink('/contacts'),
     },
   ],
-  // actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
+  actions: [{ text: 'Flyer (PDF)', href: './assets/images/impedances-logos.png', target: '_blank' }],
 };
 
 export const footerData = {
