@@ -28,19 +28,19 @@ export const headerData = {
       text: 'Speakers',
       links: [
         {
-          text: 'Important dates',
+          text: 'Important Dates',
           href: getPermalink('/speakers#important-dates'),
         },
         {
-          text: 'Abstract submission',
+          text: 'Abstract Submission',
           href: getPermalink('/speakers#abstract-submission'),
         },
         {
-          text: 'Oral presentation',
+          text: 'Oral Presentation',
           href: getPermalink('/speakers#oral-presentation'),
         },
         {
-          text: 'Poster session',
+          text: 'Poster Session',
           href: getPermalink('/speakers#poster-session'),
         },
       ],
@@ -51,7 +51,7 @@ export const headerData = {
     },
     {
       text: 'Venue',
-      href: getPermalink('/venue#kings-college-london'),
+      href: getPermalink('/venue'),
     },
     {
       text: 'Contact',

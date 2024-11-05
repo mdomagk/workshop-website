@@ -6,7 +6,9 @@ layout: ~/layouts/MarkdownLayout.astro
 
 _Preliminary program - more information coming soon._
 
-### Day 1 | Wednesday, June 11, 2025
+### Day 1 Schedule 
+
+Wednesday, June 11, 2025
 
 | Time         | Session                              |
 |--------------|--------------------------------------|
@@ -20,9 +22,11 @@ _Preliminary program - more information coming soon._
 | 4pm-5.30pm   | Session C (Poster)                   |
 | 7pm          | Evening event                        |
 
-### Day 2 | Thursday, June 12, 2025
+### Day 2 Schedule
 
-| Tim            | Session                                                           
+Thursday, June 12, 2025
+
+| Time         | Session                                                            |
 |--------------|--------------------------------------------------------------------|
 | 9am-10.30am  | Session D (Oral) Standardization aspects                           |     
 |              | _Coffee Break_                                                     |
