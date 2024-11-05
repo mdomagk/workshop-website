@@ -35,10 +35,10 @@ const metadata = {
       { text: 'Learn more', href: '#about' },
     ]}
     image={{ src: '~/assets/images/impedances-logos.png', alt: 'AstroWind Hero Image' }}
-    tagline='1<sup>st</sup> ICHQP workshop 2025'
+    tagline="1<sup>st</sup> ICHQP workshop 2025"
   >
-    <Fragment slot="title"> 
-      From Planning to Operation: <br/>
+    <Fragment slot="title">
+      From Planning to Operation: <br />
       Efficient Assessment of Harmonic Emission of Distorting Installations
       <!-- Free template for <span class="hidden xl:inline">creating websites with</span>
       <span class="text-accent dark:text-white highlight"> Astro 4.0</span> + Tailwind CSS -->
@@ -46,8 +46,8 @@ const metadata = {
 
     <Fragment slot="subtitle">
       <!-- <span class="block mb-1 font-bold text-red-600">1<sup>st</sup> ICHQP workshop</span> -->
-      <Image src="~/assets/images/Logo_workshop.png" alt="Workshop Image" class="my-4 mx-auto max-w-full" width = "170" />
-      King’s College London, UK <br/>
+      <Image src="~/assets/images/Logo_workshop.png" alt="Workshop Image" class="my-4 mx-auto max-w-full" width="170" />
+      King’s College London, UK <br />
       June 11-12, 2025
     </Fragment>
   </Hero>
@@ -57,35 +57,30 @@ const metadata = {
   <!-- <Note /> -->
 
   <Steps
-  id="about"
-  title="About"
-  items={[
-    {
-      title:
-        'Motivation',
-      description: `Modern distribution and transmission networks face challenges such as the rise of power electronics, including inverter-based resources, and the impact of increased cabling on harmonic impedance and resonances. Accurate harmonic studies are essential for managing harmonic disturbances and ensuring system stability and reliability across all voltage levels.`,
-      icon: 'tabler:question-mark',
-    },
-    {
-      title:
-        'Idea',
-      description: `This industry-academia workshop provides a platform for experts in harmonic analysis - ranging from network operators, manufacturers, consultants and research institutions to standardization bodies - to share their insights from recent projects and explore future challenges and solutions in this evolving field.`,
-      icon: 'tabler:bulb',
-    },
-    {
-      title:
-        'Realisation',
-      description: `This is the 1st workshop in the framework of the International Conference on Harmonics and Quality of Power (ICHQP). It is jointly organized by King's College London and TUD Dresden University of Technology.`,
-      icon: 'tabler:check',
-    },
-  ]}
-  classes={{ container: 'max-w-3xl' }}
+    id="about"
+    title="About"
+    items={[
+      {
+        title: 'Motivation',
+        description: `Modern distribution and transmission networks face challenges such as the rise of power electronics, including inverter-based resources, and the impact of increased cabling on harmonic impedance and resonances. Accurate harmonic studies are essential for managing harmonic disturbances and ensuring system stability and reliability across all voltage levels.`,
+        icon: 'tabler:question-mark',
+      },
+      {
+        title: 'Idea',
+        description: `This industry-academia workshop provides a platform for experts in harmonic analysis - ranging from network operators, manufacturers, consultants and research institutions to standardization bodies - to share their insights from recent projects and explore future challenges and solutions in this evolving field.`,
+        icon: 'tabler:bulb',
+      },
+      {
+        title: 'Realisation',
+        description: `This is the 1st workshop in the framework of the International Conference on Harmonics and Quality of Power (ICHQP). It is jointly organized by King's College London and TUD Dresden University of Technology.`,
+        icon: 'tabler:check',
+      },
+    ]}
+    classes={{ container: 'max-w-3xl' }}
   >
-
-  <Fragment slot="bg">
-    <div class="absolute inset-0 bg-red-50 dark:bg-transparent"></div>
-  </Fragment>
-
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-red-50 dark:bg-transparent"></div>
+    </Fragment>
   </Steps>
 
   <!-- Features Widget *************** -->
@@ -99,32 +94,26 @@ const metadata = {
     items={[
       {
         title: 'No parallel tracks',
-        description:
-          'Focus on one session without missing out.',
+        description: 'Focus on one session without missing out.',
         icon: 'tabler:track',
       },
       {
         title: 'No papers',
-        description:
-          'Only presentation or poster required.',
+        description: 'Only presentation or poster required.',
         icon: 'tabler:file-off',
       },
       {
         title: 'Dedicated time slots',
-        description:
-          'Opportunities for discussion and networking.',
+        description: 'Opportunities for discussion and networking.',
         icon: 'tabler:hourglass-empty',
       },
       {
         title: 'Low registration fees',
-        description:
-          'Significantly lower than traditional conferences.',
+        description: 'Significantly lower than traditional conferences.',
         icon: 'tabler:coin-pound',
       },
     ]}
-   >
-
-  </Features>
+  />
 
   <!-- Content Widget **************** -->
 
@@ -136,7 +125,7 @@ const metadata = {
     items={[
       {
         title: 'Harmonics in planning',
-        description:`
+        description: `
         •	Modelling requirements <br>
         •	Calculation of emission limits  <br>
         •	Implementation of compliance studies  <br>
@@ -146,7 +135,7 @@ const metadata = {
       },
       {
         title: 'Harmonics in standardization',
-        description:`
+        description: `
         •	Activities at CIGRE and IEC <br>
         •	National rules and standards <br>
         •	Critical comparisons <br>
@@ -156,7 +145,7 @@ const metadata = {
       },
       {
         title: 'Harmonics in operation',
-        description:`
+        description: `
         •	Measurement and evaluation concepts and challenges <br>
         •	Contribution assessment <br>
         •	Network harmonic impedance <br>
@@ -165,21 +154,19 @@ const metadata = {
       },
       {
         title: 'Case studies',
-        description:`
+        description: `
         •	Practical examples and experiences from harmonic compliance studies <br>
         •	Results from measurement campaigns related to harmonic emission and disturbance levels
         `,
       },
     ]}
-   >
-
+  >
     <Fragment slot="subtitle">
-      From Planning to Operation: <br> Efficient Assessment of Harmonic Emission of Distorting Installations
+      From Planning to Operation: <br /> Efficient Assessment of Harmonic Emission of Distorting Installations
     </Fragment>
-  
+
     <Fragment slot="bg">
       <div class="absolute inset-0 bg-red-50 dark:bg-transparent"></div>
     </Fragment>
   </Features2>
-
 </Layout>

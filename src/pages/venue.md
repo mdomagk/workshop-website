@@ -13,5 +13,3 @@ The workshop will be at [Strand Campus](https://www.kcl.ac.uk/visit/bush-house) 
 <!-- ## Accomodation
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. -->
-
-
