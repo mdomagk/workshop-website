@@ -33,7 +33,15 @@ export const headerData = {
         },
         {
           text: 'Abstract submission',
-          href: getPermalink('/speakers#abstrat-submission'),
+          href: getPermalink('/speakers#abstract-submission'),
+        },
+        {
+          text: 'Oral presentation',
+          href: getPermalink('/speakers#oral-presentation'),
+        },
+        {
+          text: 'Poster session',
+          href: getPermalink('/speakers#poster-session'),
         },
       ],
     },
@@ -45,22 +53,9 @@ export const headerData = {
       text: 'Venue',
       href: getPermalink('/venue#kings-college-london'),
     },
-    // {
-    //   text: 'Venue',
-    //   links: [
-    //     {
-    //       text: 'King’s College London  ',
-    //       href: getPermalink('/venue#kings-college-london'),
-    //     },
-    //     {
-    //       text: 'Accomodation',
-    //       href: getPermalink('/venue#accomodation'),
-    //     },
-    //   ],
-    // },
     {
-      text: 'Contacts',
-      href: getPermalink('/contacts'),
+      text: 'Contact',
+      href: getPermalink('/contact'),
     },
   ],
   actions: [{ text: 'Flyer (PDF)', href: '/ICHQP-workshop-flyer.pdf', target: '_blank' }],
