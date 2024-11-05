@@ -87,7 +87,7 @@ export const footerData = {
   //   { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
   //   { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],
-  footNote: `
-    Made with <a class="text-blue-600 underline dark:text-muted" href="https://astro.build/"> Astro</a>
-  `,
+  // footNote: `
+  //   Made with <a class="text-blue-600 underline dark:text-muted" href="https://astro.build/"> Astro.build</a> © 2024
+  // `,
 };
