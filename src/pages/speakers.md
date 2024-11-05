@@ -28,5 +28,5 @@ When preparing the presentation, please consider a 15-minutes speech with 5 minu
 
 Each poster will be presented as part of a guided tour, with a maximum of 5 minutes allocated per poster. The allowed formats to plot the poster are: 
 
-- **A0 portrait**: width 84.1 cm x length 118.9 cm (33.1 inch x 46.8 inch), and 
-- **A1**: 59.4 cm x 84.1 (23.4 inch x 33.1 inch). 
+- **A0** width 84.1 cm x length 118.9 cm (33.1 inch x 46.8 inch), and 
+- **A1** width 59.4 cm x length 84.1 cm (23.4 inch x 33.1 inch). 
