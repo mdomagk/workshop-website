@@ -82,6 +82,6 @@ export const footerData = {
     //   { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],
   footNote: `
-    Made with <a class="underline dark:text-muted" href="https://astro.build/"> Astro.build </a> web framework
+    Build with <a class="underline dark:text-muted" href="https://astro.build/"> Astro </a> web framework
   `,
 };
