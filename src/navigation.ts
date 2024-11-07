@@ -73,10 +73,7 @@ export const footerData = {
       ],
     },
   ],
-  secondaryLinks: [
-    { text: 'Terms', href: getPermalink('/terms') },
-    { text: 'Privacy Policy', href: getPermalink('/privacy') },
-  ],
+  secondaryLinks: [{ text: 'Impressum & Datenschutz', href: getPermalink('/impressum') }],
   socialLinks: [
     //   { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
     //   { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
@@ -85,6 +82,6 @@ export const footerData = {
     //   { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],
   footNote: `
-    Made with <a class="text-blue-600 underline dark:text-muted" href="https://astro.build/"> Astro.build </a> web framework.
+    Made with <a class="underline dark:text-muted" href="https://astro.build/"> Astro.build </a> web framework
   `,
 };
