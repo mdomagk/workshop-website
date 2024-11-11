@@ -6,3 +6,10 @@ h5,
 h6 {
   scroll-margin-top: 110px;
 }
+
+/* Disable pointer events for email links */
+a[href^="mailto:"] {
+  pointer-events: none;
+  color: inherit;
+  text-decoration: none;
+}
