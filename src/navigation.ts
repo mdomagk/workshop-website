@@ -31,7 +31,7 @@ export const headerData = {
         },
         {
           text: 'Preliminary Program',
-          href: getPermalink('/program#apreliminary-program'),
+          href: getPermalink('/program#preliminary-program'),
         },
       ]
     },
