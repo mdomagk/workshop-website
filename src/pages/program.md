@@ -4,16 +4,20 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ## Program
 
-_Preliminary program - more information coming soon._
+### Keynote Session
 
-### Day 1 Schedule
+_More information coming soon._
+
+### Preliminary Program
+
+#### Day 1 Schedule
 
 Wednesday, June 11, 2025
 
 | Time        | Session                              |
 | ----------- | ------------------------------------ |
 | 9.30am      | Registration and coffee              |
-| 10am-11am   | Welcome session (Oral, invited)      |
+| 10am-11am   | Keynote session (Oral, invited)      |
 |             | _Coffee break_                       |
 | 11.30am-1pm | Session A (Oral) Planning aspects    |
 |             | _Lunch_                              |
@@ -22,7 +26,7 @@ Wednesday, June 11, 2025
 | 4pm-5.30pm  | Session C (Poster)                   |
 | 7pm         | Evening event                        |
 
-### Day 2 Schedule
+#### Day 2 Schedule
 
 Thursday, June 12, 2025
 
