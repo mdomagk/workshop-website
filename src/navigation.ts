@@ -33,7 +33,7 @@ export const headerData = {
           text: 'Preliminary Program',
           href: getPermalink('/program#preliminary-program'),
         },
-      ]
+      ],
     },
     {
       text: 'Authors',
