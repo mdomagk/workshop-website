@@ -6,7 +6,7 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ## King's College London
 
-The workshop will be at [Strand Campus](https://www.kcl.ac.uk/visit/bush-house) of King's College London.
+The workshop will be at <a href="https://www.kcl.ac.uk/visit/strand-campus" target="_blank">Strand Campus</a> of King's College London.
 
 ![KCL](~/assets/images/strand-bush-house.png)
 
