@@ -2,7 +2,7 @@
 layout: ~/layouts/MarkdownLayout.astro
 ---
 
-# Speakers
+# Authors
 
 ## Important Dates
 

@@ -26,24 +26,24 @@ export const headerData = {
       href: getPermalink('/program'),
     },
     {
-      text: 'Speakers',
-      href: getPermalink('/speakers'),
+      text: 'Authors',
+      href: getPermalink('/authors'),
       links: [
         {
           text: 'Important Dates',
-          href: getPermalink('/speakers#important-dates'),
+          href: getPermalink('/authors#important-dates'),
         },
         {
           text: 'Abstract Submission',
-          href: getPermalink('/speakers#abstract-submission'),
+          href: getPermalink('/authors#abstract-submission'),
         },
         {
           text: 'Oral Presentation',
-          href: getPermalink('/speakers#oral-presentation'),
+          href: getPermalink('/authors#oral-presentation'),
         },
         {
           text: 'Poster Session',
-          href: getPermalink('/speakers#poster-session'),
+          href: getPermalink('/authors#poster-session'),
         },
       ],
     },
