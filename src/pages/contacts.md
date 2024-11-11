@@ -4,6 +4,6 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ## Contact
 
-If you need any further information regarding the ICHQP workshop, please do not hesitate to contact us using the following e-mail address:
+For further information about the ICHQP workshop, including questions about registration, abstract submissions, presentation formats, or general inquiries, please contact us at:
 
-**info [at] ichqp [dash] workshop [dot] org**
+**info@ichqp-workshop.org**
