@@ -28,7 +28,7 @@ When preparing the presentation, please plan for a 15-minute speech followed by 
 Ensure that your slides are in a 16:9 format for optimal display and compatibility.
 The presentation template will be available soon on the workshop website.
 
-## Poster Session
+### Poster Session
 
 Each poster will be presented as part of a guided tour, with a maximum of 5 minutes allocated per poster.
 The poster template will be available soon on the workshop website.
