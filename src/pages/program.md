@@ -14,27 +14,27 @@ _More information coming soon._
 
 Wednesday, June 11, 2025
 
-| Time        | Session                              |
-| ----------- | ------------------------------------ |
-| 9.30am      | Registration and coffee              |
-| 10am-11am   | Keynote session (Oral, invited)      |
-|             | _Coffee break_                       |
-| 11.30am-1pm | Session A (Oral) Planning aspects    |
-|             | _Lunch_                              |
-| 2pm-3.30pm  | Session B (Oral) Operational aspects |
-|             | _Coffee Break_                       |
-| 4pm-5.30pm  | Session C (Poster)                   |
-| 7pm         | Evening event                        |
+| Time                | Session                                  |
+| ------------------- | ---------------------------------------- |
+| 9:30 am - 10:00 am  | Registration and Coffee                  |
+| 10:00 am - 11:00 am | Keynote Session (Oral, Invited Speakers) |
+|                     | _Coffee Break_                           |
+| 11:30 am - 1:00 pm  | Session A (Oral) Planning Aspects        |
+|                     | _Lunch_                                  |
+| 2:00 pm - 3:30 pm   | Session B (Oral) Operational Aspects     |
+|                     | _Coffee Break_                           |
+| 4:00 pm - 5:30 pm   | Session C (Poster)                       |
+| 7:00 pm             | Evening Event                            |
 
 #### Day 2 Schedule
 
 Thursday, June 12, 2025
 
-| Time          | Session                                                            |
-| ------------- | ------------------------------------------------------------------ |
-| 9am-10.30am   | Session D (Oral) Standardization aspects                           |
-|               | _Coffee Break_                                                     |
-| 11am-12.30pm  | Session E (Oral) Practical case studies                            |
-|               | _Lunch_                                                            |
-| 1.30pm-3.30pm | Session F (Round Table) The future of harmonic emission assessment |
-| 3.30pm        | End                                                                |
+| Time                | Session                                                            |
+| ------------------- | ------------------------------------------------------------------ |
+| 9:00 am - 10:30 am  | Session D (Oral) Standardization Aspects                           |
+|                     | _Coffee Break_                                                     |
+| 11:00 am - 12:30 pm | Session E (Oral) Practical Case Studies                            |
+|                     | _Lunch_                                                            |
+| 1:30 pm - 3:30 pm   | Session F (Round Table) The Future of Harmonic Emission Assessment |
+| 3:30 pm             | End                                                                |
