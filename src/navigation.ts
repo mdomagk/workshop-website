@@ -24,6 +24,16 @@ export const headerData = {
     {
       text: 'Program',
       href: getPermalink('/program'),
+      links: [
+        {
+          text: 'Keynote Session',
+          href: getPermalink('/program#keynote-session'),
+        },
+        {
+          text: 'Preliminary Program',
+          href: getPermalink('/program#apreliminary-program'),
+        },
+      ]
     },
     {
       text: 'Authors',
@@ -60,7 +70,7 @@ export const headerData = {
       href: getPermalink('/contacts'),
     },
   ],
-  actions: [{ text: 'Flyer (PDF)', href: '/ICHQP-workshop-flyer.pdf', target: '_blank' }],
+  // actions: [{ text: 'Flyer (PDF)', href: '/ICHQP-workshop-flyer.pdf', target: '_blank' }],
 };
 
 export const footerData = {
