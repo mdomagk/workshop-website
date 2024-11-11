@@ -2,9 +2,9 @@
 layout: ~/layouts/MarkdownLayout.astro
 ---
 
-# Venue
+## Venue
 
-## King's College London
+### King's College London
 
 The workshop will be at <a href="https://www.kcl.ac.uk/visit/strand-campus" target="_blank">Strand Campus</a> of King's College London.
 
