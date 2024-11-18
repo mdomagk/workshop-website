@@ -4,7 +4,7 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ## Program
 
-### Keynote Session
+### Keynote Presentations
 
 _More information coming soon._
 
@@ -17,7 +17,7 @@ Wednesday, June 11, 2025
 | Time                | Session                                  |
 | ------------------- | ---------------------------------------- |
 | 9:30 am - 10:00 am  | Registration and Coffee                  |
-| 10:00 am - 11:00 am | Keynote Session (Oral, Invited Speakers) |
+| 10:00 am - 11:00 am | Keynote Presentations                    |
 |                     | _Coffee Break_                           |
 | 11:30 am - 1:00 pm  | Session A (Oral) Planning Aspects        |
 |                     | _Lunch_                                  |
