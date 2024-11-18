@@ -17,9 +17,9 @@ Please submit your abstract (max. 500 words) by January 19, 2025 to:
 
 **info@ichqp-workshop.org**
 
-Please use the [abstract template](/documents/abstract-template.docx) to prepare your submission.\
+Please use the [abstract template](/documents/abstract-template.docx) to prepare your submission.
 Indicate your preference for an oral presentation or a poster session.
-Final decision on the format will be made by the commitee.
+Final decision on the format will be made by the organizing committee.
 
 ### Oral Presentation
 
