@@ -6,7 +6,8 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ### King's College London
 
-The workshop will be at <a href="https://www.kcl.ac.uk/visit/strand-campus" target="_blank">Strand Campus</a> of King's College London.
+The workshop will be held at King's College London, Strand Campus.\
+More information can be found <a href="https://www.kcl.ac.uk/visit/strand-campus" target="_blank">here</a>.
 
 ![KCL](~/assets/images/strand-bush-house.png)
 
