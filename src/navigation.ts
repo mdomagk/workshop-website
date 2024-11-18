@@ -24,16 +24,16 @@ export const headerData = {
     {
       text: 'Program',
       href: getPermalink('/program'),
-      links: [
-        {
-          text: 'Keynote Session',
-          href: getPermalink('/program#keynote-session'),
-        },
-        {
-          text: 'Preliminary Program',
-          href: getPermalink('/program#preliminary-program'),
-        },
-      ],
+      // links: [
+      //   {
+      //     text: 'Keynote Session',
+      //     href: getPermalink('/program#keynote-session'),
+      //   },
+      //   {
+      //     text: 'Preliminary Program',
+      //     href: getPermalink('/program#preliminary-program'),
+      //   },
+      // ],
     },
     {
       text: 'Authors',
