@@ -28,16 +28,6 @@ export const headerData = {
     {
       text: 'Program',
       href: getPermalink('/program'),
-      // links: [
-      //   {
-      //     text: 'Keynote Session',
-      //     href: getPermalink('/program#keynote-session'),
-      //   },
-      //   {
-      //     text: 'Preliminary Program',
-      //     href: getPermalink('/program#preliminary-program'),
-      //   },
-      // ],
     },
     {
       text: 'Authors',
@@ -88,14 +78,14 @@ export const footerData = {
   //   },
   // ],
   secondaryLinks: [{ text: 'Impressum & Datenschutz', href: getPermalink('/impressum') }],
-  socialLinks: [
-    //   { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
-    //   { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
-    //   { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
-    //   { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
-    //   { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
-  ],
-  footNote: `
-    Build with <a class="underline dark:text-muted" href="https://astro.build/">Astro</a> web framework
-  `,
+  // socialLinks: [
+  //     { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
+  //     { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
+  //     { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
+  //     { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
+  //     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
+  // ],
+  // footNote: `
+  //   Build with <a class="underline dark:text-muted" href="https://astro.build/">Astro</a> web framework
+  // `,
 };
