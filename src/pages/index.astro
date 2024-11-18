@@ -8,12 +8,6 @@ import Features2 from '~/components/widgets/Features2.astro';
 import Image from '~/components/common/Image.astro';
 // import Button from '~/components/ui/Button.astro';
 
-// const tudImg = '~/assets/images/app-store.png';
-// const tudLink = 'https://github.com/onwidget/astrowind';
-
-// const kclImg = '~/assets/images/google-play.png';
-// const kclLink = 'https://github.com/onwidget/astrowind';
-
 const metadata = {
   title: 'ICHQP workshop',
   ignoreTitleTemplate: true,
@@ -180,4 +174,29 @@ const metadata = {
       <div class="absolute inset-0 bg-red-50 dark:bg-transparent"></div>
     </Fragment>
   </Features2>
+
+  <Steps
+  id="committee"
+  title="Organization"
+  subtitle="King's College London and TUD Dresden University of Technology"
+  items={[
+    {
+      title: 'Organizing Committee',
+      description: `This workshop is organized by: <br />
+      <br />
+      Grazia Todeschini, UK <br />
+      Jan Meyer, Germany <br /> 
+      Ana Maria Blanco, Germany <br /> 
+      Max Domagk, Germany <br />
+      <br />
+      in coordination with ICHQP steering committee: <br />
+      <br />
+      Roberto Langella (Co-Chair), Italy <br />
+      Cristian Lazaroiu (Co-Chair), Romania
+      `
+    },
+  ]}
+  classes={{ container: 'max-w-3xl' }}
+  >
+
 </Layout>

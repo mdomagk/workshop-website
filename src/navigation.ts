@@ -19,6 +19,10 @@ export const headerData = {
           text: 'Topics',
           href: getPermalink('/#topics'),
         },
+        {
+          text: 'Organization',
+          href: getPermalink('/#committee'),
+        },
       ],
     },
     {
@@ -76,7 +80,7 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Organisation',
+      title: 'Organization',
       links: [
         { text: 'King`s College London', href: 'https://www.kcl.ac.uk/nmes' },
         { text: 'TUD Dresden University of Technology', href: 'https://tu-dresden.de/ing/elektrotechnik/ieeh' },
