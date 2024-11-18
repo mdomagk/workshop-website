@@ -20,7 +20,7 @@ export const headerData = {
           href: getPermalink('/#topics'),
         },
         {
-          text: 'Organization',
+          text: 'Organizing Committee',
           href: getPermalink('/#committee'),
         },
       ],
@@ -78,15 +78,15 @@ export const headerData = {
 };
 
 export const footerData = {
-  links: [
-    {
-      title: 'Organization',
-      links: [
-        { text: 'King`s College London', href: 'https://www.kcl.ac.uk/nmes' },
-        { text: 'TUD Dresden University of Technology', href: 'https://tu-dresden.de/ing/elektrotechnik/ieeh' },
-      ],
-    },
-  ],
+  // links: [
+  //   {
+  //     title: 'Organization',
+  //     links: [
+  //       { text: 'King`s College London', href: 'https://www.kcl.ac.uk/nmes' },
+  //       { text: 'TUD Dresden University of Technology', href: 'https://tu-dresden.de/ing/elektrotechnik/ieeh' },
+  //     ],
+  //   },
+  // ],
   secondaryLinks: [{ text: 'Impressum & Datenschutz', href: getPermalink('/impressum') }],
   socialLinks: [
     //   { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
