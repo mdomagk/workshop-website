@@ -23,7 +23,7 @@ Final decision on the format will be made by the organizing committee.
 
 ### Presentation Details
 
-The oral presentation slides and posters will be shared with all workshop participants via a password protected link. 
+The oral presentation slides and posters will be shared with all workshop participants via a password protected link.
 To share your work more broadly, we offer you the opportunity to upload your slides or poster to our website without extra cost.
 
 #### Oral Presentation
