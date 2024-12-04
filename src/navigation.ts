@@ -42,13 +42,17 @@ export const headerData = {
           href: getPermalink('/authors#abstract-submission'),
         },
         {
-          text: 'Oral Presentation',
-          href: getPermalink('/authors#oral-presentation'),
+          text: 'Presentation Details',
+          href: getPermalink('/authors#presentation-details'),
         },
-        {
-          text: 'Poster Session',
-          href: getPermalink('/authors#poster-session'),
-        },
+        // {
+        //   text: 'Oral Presentation',
+        //   href: getPermalink('/authors#oral-presentation'),
+        // },
+        // {
+        //   text: 'Poster Session',
+        //   href: getPermalink('/authors#poster-session'),
+        // },
       ],
     },
     {
@@ -64,7 +68,7 @@ export const headerData = {
       href: getPermalink('/contacts'),
     },
   ],
-  actions: [{ text: 'Flyer (PDF)', href: '/documents/ICHQP-workshop-flyer.pdf', target: '_blank' }],
+  actions: [{ text: 'Brochure (PDF)', href: '/documents/Brochure-ICHQP-workshop.pdf', target: '_blank' }],
 };
 
 export const footerData = {
