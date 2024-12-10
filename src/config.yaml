@@ -10,7 +10,7 @@ site:
 metadata:
   title:
     default: ICHQP workshop
-    template: '%s — ICHQP workshop'
+    template: '%s' # '%s — ICHQP workshop'
   description: "\U0001F680 1st ICHQP workshop 2025"
   robots:
     index: true
