@@ -8,7 +8,7 @@ layout: ~/layouts/MarkdownLayout.astro
 
 - Abstract submission deadline: **January 19, 2025**
 - Notification of acceptance: **February 16, 2025**
-- Early-bird registration deadline: **March 16, 2025**
+- Early-bird registration deadline: **March 31, 2025**
 - Workshop dates: **June 11-12, 2025**
 
 ### Abstract Submission
