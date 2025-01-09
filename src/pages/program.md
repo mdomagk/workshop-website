@@ -8,7 +8,7 @@ layout: ~/layouts/MarkdownLayout.astro
 
 #### S. Mark Halpin (Fellow, IEEE)
 
-<span class="text-base leading-snug block">
+<span class="text-sm leading-snug block">
 is a Professor in the Department of Electrical and Computer Engineering at Auburn University. 
 His teaching interests include power systems, control systems, and network analysis. His research interests are in the areas of power system dynamic performance and power quality.  
 He is active in the IEEE Power Engineering Society where he was the Chair of IEEE 519, in CIGRE where he serves as Convener of the Working Group charged with revising the IEC Technical Reports dealing with emission limits for harmonics, voltage fluctuations, and unbalance, and in IEC where he serves as Chair of TC77/SC77A which is responsible for standardization in all aspects of low-frequency conducted disturbances (power quality) in power systems.
@@ -16,7 +16,7 @@ He is active in the IEEE Power Engineering Society where he was the Chair of IEE
 
 #### Dr. Nigel L. Shore
 
-<span class="text-base leading-snug block">
+<span class="text-sm leading-snug block">
 Dr. Shore has over 50 years of experience in the HVDC industry, most being with Hitachi Energy and its forbears ASEA and ABB. 
 He is particularly specialized in the area of harmonics and has been prominently involved in the design of filters for very many of the existing and developing HVDC transmission projects worldwide. 
 He has been an active member of CIGRE for 35 years, and has significantly contributed to eleven Technical Brochures, five of which as Working Group Convenor. 
