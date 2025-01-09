@@ -30,8 +30,8 @@ export const headerData = {
       href: getPermalink('/program'),
       links: [
         {
-          text: 'Keynote Presentations',
-          href: getPermalink('/program#keynote-presentations'),
+          text: 'Keynote Speakers',
+          href: getPermalink('/program#keynote-speakers'),
         },
         {
           text: 'Preliminary Program',
