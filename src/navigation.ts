@@ -28,6 +28,16 @@ export const headerData = {
     {
       text: 'Program',
       href: getPermalink('/program'),
+      links: [
+        {
+          text: 'Keynote Presentations',
+          href: getPermalink('/program#keynote-presentations'),
+        },
+        {
+          text: 'Preliminary Program',
+          href: getPermalink('/program#preliminary-program'),
+        },
+      ],
     },
     {
       text: 'Authors',
