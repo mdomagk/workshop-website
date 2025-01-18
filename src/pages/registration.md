@@ -13,4 +13,10 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ### Registration Details
 
-_More information coming in January 2025._
+To register for the workshop, please visit the following link:  
+<a href="https://estore.kcl.ac.uk/conferences-and-events/academic-faculties/faculty-of-natural-mathematical-sciences/department-of-engineering/from-planning-to-operation-efficient-assessment-of-harmonic-emission-from-distorting-installations" target="_blank">Register Here</a>
+
+**Important Notes:**
+
+- Only one type of ticket (either the workshop registration or an additional dinner ticket) can be booked at a time.
+- The **additional dinner ticket** allows a guest to attend the dinner on **11/06**. All guests must be registered to attend the event, and the name of the person they are accompanying must be specified during the registration process.
