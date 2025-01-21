@@ -13,7 +13,7 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ### Abstract Submission
 
-Please submit your abstract (max. 500 words) by January 19, 2025 to:
+Please submit your abstract (max. 500 words) by January 31, 2025 to:
 
 **info@ichqp-workshop.org**
 
