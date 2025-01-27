@@ -1,0 +1,28 @@
+---
+export interface NewsItem {
+  text: string;
+  href?: string;
+}
+
+export interface Props {
+  items: NewsItem[];
+  classes?: string;
+}
+
+const { items, classes = '' } = Astro.props;
+---
+
+<div class={`relative bg-yellow-100 text-yellow-800 py-2 px-4 text-center shadow-md ${classes}`}>
+  <div class="flex flex-wrap justify-center items-center gap-2">
+    {items.map((item, index) => (
+      <div class="inline-block relative z-10 flex items-center gap-2" key={index}>
+        <span class="text-xl font-bold">•</span> {/* Add dot before each news */}
+        {item.href ? (
+          <a href={item.href} class="underline font-sans hover:text-yellow-600">{item.text}</a>
+        ) : (
+          <span class="font-sans">{item.text}</span>
+        )}
+      </div>
+    ))}
+  </div>
+</div>
