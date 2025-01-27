@@ -14,27 +14,28 @@ const { items, classes = '', bg = '' } = Astro.props;
 ---
 
 <div class="relative">
-  {bg && (
-    <div class="absolute inset-0" set:html={bg}></div>
-  )} {/* Background layer */}
-  
+  {bg && <div class="absolute inset-0" set:html={bg} />}
+  {/* Background layer */}
+
   <div class={`relative py-2 px-4 text-center shadow-md ${classes}`}>
     <div class="flex flex-wrap justify-center items-center gap-4 text-[var(--aw-color-text-default)]">
-      {items.map((item, index) => (
-        <div class="inline-block relative z-10 flex items-center gap-2" key={index}>
-          <span class="text-lg font-bold text-[var(--aw-color-text-muted)]">•</span> {/* Dot in default text color */}
-          {item.href ? (
-            <a
-              href={item.href}
-              class="text-sans font-medium text-[var(--aw-color-text-muted)] text-base underline font-sans"
-            >
-              {item.text}
-            </a>
-          ) : (
-            <span class="font-sans">{item.text}</span>
-          )}
-        </div>
-      ))}
+      {
+        items.map((item) => (
+          <div class="inline-block relative z-10 flex items-center gap-2">
+            <span class="text-lg font-bold text-[var(--aw-color-text-muted)]">•</span> {/* Dot in default text color */}
+            {item.href ? (
+              <a
+                href={item.href}
+                class="text-sans font-medium text-[var(--aw-color-text-muted)] text-base underline font-sans"
+              >
+                {item.text}
+              </a>
+            ) : (
+              <span class="font-sans">{item.text}</span>
+            )}
+          </div>
+        ))
+      }
     </div>
   </div>
 </div>

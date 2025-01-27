@@ -1,8 +1,7 @@
 ---
 import Layout from '~/layouts/PageLayout.astro';
 
-import NewsBanner from '~/components/widgets/NewsBanner.astro'
-import { getPermalink } from '../utils/permalinks';
+import NewsBanner from '~/components/widgets/NewsBanner.astro';
 import Hero from '~/components/widgets/Hero.astro';
 import Steps from '~/components/widgets/Steps.astro';
 import Features from '~/components/widgets/Features.astro';
@@ -19,12 +18,12 @@ const metadata = {
 <Layout metadata={metadata}>
   <!-- News Banner ******************* -->
   <NewsBanner
-  items={[
-    { text: 'Abstract submission deadline extended', href: 'authors' },
-    { text: 'Early bird registration open', href: 'registration#registration-details' },
-  ]}
-  bg={`<div class="absolute inset-0 bg-red-50 dark:bg-slate-900"></div>`}
-  classes="text-lg"
+    items={[
+      { text: 'Abstract submission deadline extended', href: 'authors' },
+      { text: 'Early bird registration open', href: 'registration#registration-details' },
+    ]}
+    bg={`<div class="absolute inset-0 bg-red-50 dark:bg-slate-900"></div>`}
+    classes="text-lg"
   />
 
   <!-- Hero Widget ******************* -->
