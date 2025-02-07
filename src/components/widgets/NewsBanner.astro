@@ -21,7 +21,7 @@ const { items, classes = '', bg = '' } = Astro.props;
     <div class="flex flex-wrap justify-center items-center gap-4 text-[var(--aw-color-text-default)]">
       {
         items.map((item) => (
-          <div class="inline-block relative z-10 flex items-center gap-2">
+          <div class="relative z-10 flex items-center gap-2">
             <span class="text-lg font-bold text-[var(--aw-color-text-muted)]">•</span> {/* Dot in default text color */}
             {item.href ? (
               <a
