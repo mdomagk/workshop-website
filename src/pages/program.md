@@ -13,7 +13,7 @@ layout: ~/layouts/MarkdownLayout.astro
     <span class="text-sm leading-snug block">
         Dr. Halpin is a Professor in the Department of Electrical and Computer Engineering at Auburn University. 
         His teaching interests include power systems, control systems, and network analysis. His research interests are in the areas of power system dynamic performance and power quality.  
-        He is active in the IEEE Power Engineering Society where he was the Chair of IEEE 519, in CIGRE where he serves as Convener of the Working Group charged with revising the IEC Technical Reports dealing with emission limits for harmonics, voltage fluctuations, and unbalance, and in IEC where he serves as Chair of TC77/SC77A which is responsible for standardization in all aspects of low-frequency conducted disturbances (power quality) in power systems.
+        As a Fellow Member, he is active in the IEEE Power Engineering Society where he was the Chair of IEEE 519, in CIGRE where he serves as Convener of the Working Group charged with revising the IEC Technical Reports dealing with emission limits for harmonics, voltage fluctuations, and unbalance, and in IEC where he serves as Chair of TC77/SC77A which is responsible for standardization in all aspects of low-frequency conducted disturbances (power quality) in power systems.
     </span>
 </div>
 
