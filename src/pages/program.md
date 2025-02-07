@@ -6,37 +6,40 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ### Keynote Speakers
 
-#### Standardization Perspective
+##### S. Mark Halpin - Standardization Perspective
 
-##### S. Mark Halpin (Fellow, IEEE)
+<div class="flex items-center gap-4 -mt-5">
+    <img src="src/assets/images/speaker-halpin.jpg" alt="S. Mark Halpin" class="w-32 h-32 rounded-full shadow-md">
+    <span class="text-sm leading-snug block">
+        Dr. Halpin is a Professor in the Department of Electrical and Computer Engineering at Auburn University. 
+        His teaching interests include power systems, control systems, and network analysis. His research interests are in the areas of power system dynamic performance and power quality.  
+        He is active in the IEEE Power Engineering Society where he was the Chair of IEEE 519, in CIGRE where he serves as Convener of the Working Group charged with revising the IEC Technical Reports dealing with emission limits for harmonics, voltage fluctuations, and unbalance, and in IEC where he serves as Chair of TC77/SC77A which is responsible for standardization in all aspects of low-frequency conducted disturbances (power quality) in power systems.
+    </span>
+</div>
 
-<span class="text-sm leading-snug block">
-is a Professor in the Department of Electrical and Computer Engineering at Auburn University. 
-His teaching interests include power systems, control systems, and network analysis. His research interests are in the areas of power system dynamic performance and power quality.  
-He is active in the IEEE Power Engineering Society where he was the Chair of IEEE 519, in CIGRE where he serves as Convener of the Working Group charged with revising the IEC Technical Reports dealing with emission limits for harmonics, voltage fluctuations, and unbalance, and in IEC where he serves as Chair of TC77/SC77A which is responsible for standardization in all aspects of low-frequency conducted disturbances (power quality) in power systems.
-</span>
+##### Nigel L. Shore - Manufacturer Perspective
 
-#### Manufacturer Perspective
+<div class="flex items-center gap-4 -mt-5">
+  <img src="src/assets/images/speaker-halpin.jpg" alt="S. Mark Halpin" class="w-32 h-32 rounded-full shadow-md">
+    <span class="text-sm leading-snug block">
+        Dr. Shore has over 50 years of experience in the HVDC industry, most being with Hitachi Energy and its forbears ASEA and ABB.
+        He is particularly specialized in the area of harmonics and has been prominently involved in the design of filters for very many of the existing and developing HVDC transmission projects worldwide. 
+        He has been an active member of CIGRE for 35 years, and has significantly contributed to eleven Technical Brochures, five of which as Working Group Convenor. 
+        He is also active in IEC in the development of harmonics standards and in the IEEE. He is a Chartered Engineer in the UK, a Senior Life Member of IEEE and a Distinguished Member of CIGRE.
+    </span>
+</div>
 
-##### Nigel L. Shore
+##### Daphne Schwanz - Grid Operator Perspective
 
-<span class="text-sm leading-snug block">
-Dr. Shore has over 50 years of experience in the HVDC industry, most being with Hitachi Energy and its forbears ASEA and ABB.
-He is particularly specialized in the area of harmonics and has been prominently involved in the design of filters for very many of the existing and developing HVDC transmission projects worldwide. 
-He has been an active member of CIGRE for 35 years, and has significantly contributed to eleven Technical Brochures, five of which as Working Group Convenor. 
-He is also active in IEC in the development of harmonics standards and in the IEEE. He is a Chartered Engineer in the UK, a Senior Life Member of IEEE and a Distinguished Member of CIGRE.
-</span>
-
-#### Grid Operator Perspective
-
-##### Daphne Schwanz
-
-<span class="text-sm leading-snug block">
-Dr. Schwanz is a Senior Lead Engineer at the Irish Transmission System Operator (TSO), with a primary focus on the integration of renewable energy sources into power systems and power quality analysis. 
-Currently, she leads studies on power quality at EirGrid, with a particular focus on harmonic solutions and the integration of offshore wind farms. 
-Over the course of her career, she has provided expert advice on mitigation strategies for power quality challenges, conducted in-depth harmonic studies, and supported the development and update of relevant policies. Additionally, she has made significant contributions to the design of harmonic solutions for both power generation and demand customers. 
-Dr. Schwanz is an active member of Cigre Working Group C4.65
-</span>
+<div class="flex items-center gap-4 -mt-4">
+  <img src="src/assets/images/speaker-halpin.jpg" alt="S. Mark Halpin" class="w-32 h-32 rounded-full shadow-md">
+    <span class="text-sm leading-snug block">
+        Dr. Schwanz is a Senior Lead Engineer at the Irish Transmission System Operator (TSO), with a primary focus on the integration of renewable energy sources into power systems and power quality analysis. 
+        Currently, she leads studies on power quality at EirGrid, with a particular focus on harmonic solutions and the integration of offshore wind farms. 
+        Over the course of her career, she has provided expert advice on mitigation strategies for power quality challenges, conducted in-depth harmonic studies, and supported the development and update of relevant policies. Additionally, she has made significant contributions to the design of harmonic solutions for both power generation and demand customers. 
+        Dr. Schwanz is an active member of Cigre Working Group C4.65
+    </span>
+</div>
 
 ### Preliminary Program
 
