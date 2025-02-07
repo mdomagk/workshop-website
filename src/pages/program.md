@@ -11,7 +11,7 @@ layout: ~/layouts/MarkdownLayout.astro
 ##### S. Mark Halpin
 
 <div class="flex items-start justify-center gap-4">
-    <img src="src/assets/images/speaker-halpin.jpg" alt="S. Mark Halpin" class="w-24 h-32 rounded-full shadow-md" style="margin-top: 0.2em">
+    <img src="../documents/speaker-halpin.jpg" alt="S. Mark Halpin" class="w-24 h-32 rounded-full shadow-md" style="margin-top: 0.2em">
     <span class="text-sm leading-snug block">
         Dr. Halpin is a Professor in the Department of Electrical and Computer Engineering at Auburn University. 
         His teaching interests include power systems, control systems, and network analysis. His research interests are in the areas of power system dynamic performance and power quality.  
@@ -24,7 +24,7 @@ layout: ~/layouts/MarkdownLayout.astro
 ##### Nigel L. Shore
 
 <div class="flex items-start justify-center gap-4">
-  <img src="src/assets/images/speaker-shore.jpg" alt="S. Mark Halpin" class="w-24 h-32 rounded-full shadow-md" style="margin-top: 0.2em">
+  <img src="../documents/speaker-shore.jpg" alt="S. Mark Halpin" class="w-24 h-32 rounded-full shadow-md" style="margin-top: 0.2em">
     <span class="text-sm leading-snug block">
         Dr. Shore has over 50 years of experience in the HVDC industry, most being with Hitachi Energy and its forbears ASEA and ABB.
         He is particularly specialized in the area of harmonics and has been prominently involved in the design of filters for very many of the existing and developing HVDC transmission projects worldwide. 
@@ -38,7 +38,7 @@ layout: ~/layouts/MarkdownLayout.astro
 ##### Daphne Schwanz
 
 <div class="flex items-start justify-center gap-4">
-  <img src="src/assets/images/speaker-schwanz.jpg" alt="S. Mark Halpin" class="w-24 h-32 rounded-full shadow-md" style="margin-top: 0.2em">
+  <img src="../documents/speaker-schwanz.jpg" alt="S. Mark Halpin" class="w-24 h-32 rounded-full shadow-md" style="margin-top: 0.2em">
     <span class="text-sm leading-snug block">
         Dr. Schwanz is a Senior Lead Engineer at the Irish Transmission System Operator (TSO), with a primary focus on the integration of renewable energy sources into power systems and power quality analysis. 
         Currently, she leads studies on power quality at EirGrid, with a particular focus on harmonic solutions and the integration of offshore wind farms. 
