@@ -29,7 +29,14 @@ He is also active in IEC in the development of harmonics standards and in the IE
 
 #### Grid Operator Perspective
 
-_Speaker to be confirmed. More details to follow._
+##### Daphne Schwanz
+
+<span class="text-sm leading-snug block">
+Dr. Schwanz is a Senior Lead Engineer at the Irish Transmission System Operator (TSO), with a primary focus on the integration of renewable energy sources into power systems and power quality analysis. 
+Currently, she leads studies on power quality at EirGrid, with a particular focus on harmonic solutions and the integration of offshore wind farms. 
+Over the course of her career, she has provided expert advice on mitigation strategies for power quality challenges, conducted in-depth harmonic studies, and supported the development and update of relevant policies. Additionally, she has made significant contributions to the design of harmonic solutions for both power generation and demand customers. 
+Dr. Schwanz is an active member of Cigre Working Group C4.65
+</span>
 
 ### Preliminary Program
 
