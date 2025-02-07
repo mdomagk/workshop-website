@@ -21,7 +21,7 @@ layout: ~/layouts/MarkdownLayout.astro
 
 #### Manufacturer Perspective
 
-##### Nigel L. Shore 
+##### Nigel L. Shore
 
 <div class="flex items-start justify-center gap-4">
   <img src="src/assets/images/speaker-shore.jpg" alt="S. Mark Halpin" class="w-24 h-32 rounded-full shadow-md" style="margin-top: 0.2em">
