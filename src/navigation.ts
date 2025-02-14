@@ -72,6 +72,16 @@ export const headerData = {
     {
       text: 'Venue',
       href: getPermalink('/venue'),
+      links: [
+        {
+          text: 'Kings College London',
+          href: getPermalink('/venue#kings-college-london'),
+        },
+        {
+          text: 'Accommodation',
+          href: getPermalink('/venue#accommodation'),
+        },
+      ],
     },
     {
       text: 'Contact',
