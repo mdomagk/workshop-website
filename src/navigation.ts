@@ -74,7 +74,7 @@ export const headerData = {
       href: getPermalink('/venue'),
       links: [
         {
-          text: 'Kings College London',
+          text: "King's College London",
           href: getPermalink('/venue#kings-college-london'),
         },
         {
