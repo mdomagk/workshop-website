@@ -18,5 +18,6 @@ To register for the workshop, please visit the following link:
 
 **Important Notes:**
 
+- All **authors** must complete their registration **by** March 16, 2025
 - Only one type of ticket (either the workshop registration or an additional dinner ticket) can be booked at a time.
 - The **additional dinner ticket** allows a guest to attend the dinner on **11/06**. All guests must be registered to attend the event, and the name of the person they are accompanying must be specified during the registration process.
