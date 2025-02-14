@@ -6,8 +6,9 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ### Important Dates
 
-- Abstract submission deadline: <span style="color:red;text-decoration:line-through;">**January 19, 2025**</span> <span style="color:red;">January 31, 2025</span>
+- Abstract submission deadline: <span style="color:red;">Closed</span>
 - Notification of acceptance: **February 16, 2025**
+- Author registration deadline: <span style="color:red;">March 16, 2025</span>
 - Early-bird registration deadline: **March 31, 2025**
 - Workshop dates: **June 11-12, 2025**
 
