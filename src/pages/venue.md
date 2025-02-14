@@ -13,7 +13,7 @@ More information can be found <a href="https://www.kcl.ac.uk/visit/strand-campus
 
 ## Accommodation
 
-### Recommended Hotels
+### Hotels nearby Strand Campus
 
 **Please note:** King’s College London has no affiliation with any these hotels and any bookings should be made directly with the hotel. Please look at individual websites for prices and most recent contact information.
 
