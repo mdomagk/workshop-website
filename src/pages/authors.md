@@ -18,7 +18,7 @@ Please submit your abstract (max. 500 words) by January 31, 2025 to:
 
 **info@ichqp-workshop.org**
 
-Please use the [abstract template](/documents/abstract-template.docx) to prepare your submission.
+Please use the [Abstract Template](/documents/abstract-template.docx) to prepare your submission.
 Indicate your preference for an oral presentation or a poster session.
 Final decision on the format will be made by the organizing committee.
 
@@ -29,12 +29,13 @@ To share your work more broadly, we offer you the opportunity to upload your sli
 
 #### Oral Presentation
 
-<!-- When preparing the presentation, please plan for a 15-minute speech followed by 5 minutes for Q&A. -->
-
-Further information and a presentation template will be available soon.
+- Each presentation should be **10 minutes long**.
+- Please use the official [Presentation Template](/documents/abstract-template.docx) to ensure a consistent format.
+- Send your presentation **one week in advance** to **info@ichqp-workshop.org**.
 
 #### Poster Session
 
-<!-- Each poster will be presented as part of a guided tour, with a maximum of 5 minutes allocated per poster. -->
-
-Further information and a poster template will be available soon.
+- Each poster will be presented as part of a guided tour.
+- Posters should be **A0 size (841 × 1189 mm, portrait orientation is required)**.
+- Use the official [Poster Template](/documents/abstract-template.docx) to ensure a uniform layout.
+- Please **bring your poster printed**, as on-site printing will not be available.
