@@ -30,12 +30,12 @@ To share your work more broadly, we offer you the opportunity to upload your sli
 #### Oral Presentation
 
 - Each presentation should be **10 minutes long**.
-- Please use the official [Presentation Template](/documents/abstract-template.docx) to ensure a consistent format.
+- Please use the official [Presentation Template](/documents/presentation-template.docx) to ensure a consistent format.
 - Send your presentation **one week in advance** to **info@ichqp-workshop.org**.
 
 #### Poster Session
 
 - Each poster will be presented as part of a guided tour.
 - Posters should be **A0 size (841 × 1189 mm, portrait orientation is required)**.
-- Use the official [Poster Template](/documents/abstract-template.docx) to ensure a uniform layout.
+- Use the official [Poster Template](/documents/poster-template.docx) to ensure a uniform layout.
 - Please **bring your poster printed**, as on-site printing will not be available.
