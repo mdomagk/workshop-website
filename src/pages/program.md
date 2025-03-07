@@ -56,7 +56,7 @@ Wednesday, June 11, 2025
 | Time               | Session                              |
 | ------------------ | ------------------------------------ |
 | 9:00 am - 9:30 am  | Registration and Coffee              |
-| 9:30 am - 9:40 am  | Welcome Adress                       |
+| 9:30 am - 9:40 am  | Welcome Address                      |
 | 9:40 am - 11:00 am | Keynote Presentations                |
 |                    | _Coffee Break_                       |
 | 11:30 am - 1:00 pm | Session A (Oral) Planning Aspects    |
