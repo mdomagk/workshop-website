@@ -25,13 +25,14 @@ Final decision on the format will be made by the organizing committee.
 ### Presentation Details
 
 The oral presentation slides and posters will be shared after the workshop with all participants via a password protected link.
+
 <!-- To share your work more broadly, we offer you the opportunity to upload your slides or poster to our website without extra cost. -->
 
 #### Oral Presentation
 
 - Each presentation should not exceed **10 minutes**.
 - Please use the official [Presentation Template](/documents/presentation-template.docx) to ensure a consistent format.
-- Send your presentation **until June 4th, 2025** to **info@ichqp-workshop.org**. 
+- Send your presentation **until June 4th, 2025** to **info@ichqp-workshop.org**.
 
 #### Poster Session
 
