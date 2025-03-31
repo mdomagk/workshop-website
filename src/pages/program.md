@@ -49,6 +49,10 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ### Preliminary Program
 
+You can download the [Detailed Program](/documents/workshop-program.pdf) here.
+
+Below is an overview of the workshop schedule:
+
 #### Day 1 Schedule
 
 Wednesday, June 11, 2025
