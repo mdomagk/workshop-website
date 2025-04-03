@@ -33,7 +33,7 @@ The oral presentation slides and posters will be shared after the workshop with 
 
 - Each presentation should not exceed **10 minutes**.
 - Please use the official [Presentation Template](/documents/presentation-template.pptx) to ensure a consistent format.
-- Send your presentation **until June 4th, 2025** to **info@ichqp-workshop.org**.
+- Please send your presentation **until June 4th, 2025** in PPTX and PDF format to **info@ichqp-workshop.org**.
 
 #### Poster Session
 
@@ -41,4 +41,4 @@ The oral presentation slides and posters will be shared after the workshop with 
 - Posters should be **A0 size (841 × 1189 mm, portrait orientation is required)**.
 - Please use the official [Poster Template](/documents/poster-template.pptx) to ensure a uniform layout.
 - Please **bring your poster printed**, as on-site printing will not be available.
-- In addition, please send your poster **until June 4th, 2025** in pdf format to **info@ichqp-workshop.org**.
+- In addition, please send your poster **until June 4th, 2025** in PDF format to **info@ichqp-workshop.org**.
