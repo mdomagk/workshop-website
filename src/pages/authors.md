@@ -6,10 +6,10 @@ layout: ~/layouts/MarkdownLayout.astro
 
 ### Important Dates
 
-- Abstract submission: <span style="color:red;">Closed</span>
-- Notification of acceptance: **February 16, 2025**
-- Author registration deadline: <span style="color:red;">March 16, 2025</span>
-- Early-bird registration deadline: **March 31, 2025**
+- Abstract submission: <span style="color:gray;">Januar 19, 2025</span>
+- Notification of acceptance: <span style="color:grey;">February 16, 2025</span>
+- Author registration deadline: <span style="color:grey;">March 16, 2025</span>
+- Early-bird registration deadline: <span style="color:grey;">March 31, 2025</span>
 - Workshop dates: **June 11-12, 2025**
 
 ### Abstract Submission
@@ -40,4 +40,4 @@ The oral presentation slides and posters will be shared after the workshop with 
 - Posters should be **A0 size (841 × 1189 mm, portrait orientation is required)**.
 - Please use the official [Poster Template](/documents/poster-template.pptx) to ensure a uniform layout.
 - Please **bring your poster printed**, as on-site printing will not be available.
-- In addtition, please send your poster **until June 4th, 2025** in pdf format to **info@ichqp-workshop.org**.
+- In addition, please send your poster **until June 4th, 2025** in pdf format to **info@ichqp-workshop.org**.
