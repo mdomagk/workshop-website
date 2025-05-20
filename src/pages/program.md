@@ -47,7 +47,7 @@ layout: ~/layouts/MarkdownLayout.astro
     </span>
 </div>
 
-### Preliminary Program
+### Final Program
 
 You can download the [Detailed Program](/documents/workshop-program.pdf) here.
 
@@ -80,5 +80,5 @@ Thursday, June 12, 2025
 |                     | _Coffee Break_                                                     |
 | 11:00 am - 12:30 pm | Session E (Oral) Practical Case Studies                            |
 |                     | _Lunch_                                                            |
-| 1:30 pm - 3:30 pm   | Session F (Round Table) The Future of Harmonic Emission Assessment |
-| 3:30 pm             | End                                                                |
+| 1:30 pm - 3:00 pm   | Session F (Round Table) The Future of Harmonic Emission Assessment |
+| 3:00 pm             | End                                                                |
