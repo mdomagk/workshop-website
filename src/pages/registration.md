@@ -18,7 +18,7 @@ To register for the workshop, please visit the following link:
 
 **Important Notes:**
 
-- The final booking date for this event is **May 30, 2025**.
+- The final booking date for this event is **June 5, 2025**.
 - Only one type of ticket (either the workshop registration or an additional dinner ticket) can be booked at a time.
 - The **additional dinner ticket** allows a guest to attend the dinner on **11/06**. All guests must be registered to attend the event, and the name of the person they are accompanying must be specified during the registration process.
 - **Please note:** We are unable to process invoices or generate purchase orders (POs) for registration fee payments. Additionally, VAT receipts cannot be provided.
