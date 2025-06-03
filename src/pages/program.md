@@ -75,12 +75,12 @@ Wednesday, June 11, 2025
 
 Thursday, June 12, 2025
 
-| Time              | Session                                                                |
-| ----------------- | ---------------------------------------------------------------------- |
-| 8:30 am           | _Coffee_                                                               |
-| 9:00 am           | **Session D (Oral) Standardization Aspects**                           |
-| 10:30 am          | _Coffee Break_                                                         |
-| 11:00 am          | **Session E (Oral) Practical Case Studies**                            |
-| 12:30 am          | _Lunch_                                                                |
-| 1:30 pm - 3:00 pm | **Session F (Round Table) The Future of Harmonic Emission Assessment** |
-| 3:00 pm           | _End Day 2_                                                            |
+| Time     | Session                                                                |
+| -------- | ---------------------------------------------------------------------- |
+| 8:30 am  | _Coffee_                                                               |
+| 9:00 am  | **Session D (Oral) Standardization Aspects**                           |
+| 10:30 am | _Coffee Break_                                                         |
+| 11:00 am | **Session E (Oral) Practical Case Studies**                            |
+| 12:30 am | _Lunch_                                                                |
+| 1:30 pm  | **Session F (Round Table) The Future of Harmonic Emission Assessment** |
+| 3:00 pm  | _End Day 2_                                                            |
