@@ -59,8 +59,8 @@ Wednesday, June 11, 2025
 
 | Time     | Session                                  |
 | -------- | ---------------------------------------- |
-| 9:00 am  | Registration and Coffee                  |
-| 9:30 am  | Welcome Address                          |
+| 9:00 am  | _Registration and Coffee_                |
+| 9:30 am  | **Welcome Address**                      |
 | 9:40 am  | **Keynote Presentations**                |
 | 11:00 am | _Coffee Break_                           |
 | 11:30 am | **Session A (Oral) Planning Aspects**    |
@@ -69,7 +69,7 @@ Wednesday, June 11, 2025
 | 3:30 pm  | _Coffee Break_                           |
 | 4:00 pm  | **Session C (Poster)**                   |
 | 5:30 pm  | _End Day 1_                              |
-| 7:00 pm  | Evening Event                            |
+| 7:00 pm  | _Evening Event_                          |
 
 #### Day 2 Schedule
 
@@ -77,10 +77,10 @@ Thursday, June 12, 2025
 
 | Time     | Session                                                                |
 | -------- | ---------------------------------------------------------------------- |
-| 8:30 am  | _Coffee_                                                               |
+| 8:30 am  | _Morning Coffee_                                                       |
 | 9:00 am  | **Session D (Oral) Standardization Aspects**                           |
 | 10:30 am | _Coffee Break_                                                         |
 | 11:00 am | **Session E (Oral) Practical Case Studies**                            |
-| 12:30 am | _Lunch_                                                                |
+| 12:30 pm | _Lunch_                                                                |
 | 1:30 pm  | **Session F (Round Table) The Future of Harmonic Emission Assessment** |
 | 3:00 pm  | _End Day 2_                                                            |
