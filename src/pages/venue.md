@@ -20,8 +20,8 @@ _Macadam Building, Surrey Street, London, WC2R 2NS_
 
 **Room details:**
 
-- **Oral and poster sessions:** MB4.2 (4th floor, Macadam Building)
-- **Refreshments, lunch and dinner:** Terrace Café (ground floor)
+- **Oral and poster sessions, refreshments:** MB4.2 (4th floor, Macadam Building)
+- **Lunch and evening event:** Terrace Café (ground floor)
 
 **Registration:**  
 Participants must register at the **Surrey Street entrance**. Please note that all entrances to King’s College London are gated. Only **registered participants arriving via Surrey Street** will be granted access. This entrance is indicated by a **blue marker** on the map below:
