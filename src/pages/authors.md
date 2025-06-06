@@ -10,7 +10,7 @@ layout: ~/layouts/MarkdownLayout.astro
 - Notification of acceptance: <span style="color:grey;">February 16, 2025</span>
 - Author registration deadline: <span style="color:grey;">March 16, 2025</span>
 - Early-bird registration deadline: <span style="color:grey;">March 31, 2025</span>
-- Registration deadline: **June 5, 2025**
+- Registration deadline: <span style="color:grey;">June 5, 2025</span>
 - Workshop dates: **June 11-12, 2025**
 
 ### Abstract Submission
